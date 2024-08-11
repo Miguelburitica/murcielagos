@@ -1,0 +1,26 @@
+[
+  {
+    "nombre_clase": "Thy",
+    "nombre_natural": "Kevin",
+    "tiene_hoja_nasal": false,
+    "tiene_discos_de_succion": true,
+    "tiene_cola_corta": true,
+    "tiene_rostro_con_pelos": false,
+    "tiene_labio_superior_endido": false,
+    "tiene_pulgar_completo": false,
+    "tiene_orejas_en_embudo": false,
+    "tiene_cola_parcialmente_en_uropatagio": false
+  },
+  {
+    "nombre_clase": "Dhy",
+    "nombre_natural": "Chicken",
+    "tiene_hoja_nasal": false,
+    "tiene_discos_de_succion": true,
+    "tiene_cola_corta": true,
+    "tiene_rostro_con_pelos": false,
+    "tiene_labio_superior_endido": false,
+    "tiene_pulgar_completo": false,
+    "tiene_orejas_en_embudo": false,
+    "tiene_cola_parcialmente_en_uropatagio": false
+  }
+]
