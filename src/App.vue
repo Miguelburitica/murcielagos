@@ -1,7 +1,7 @@
 <script setup lang="ts">
 
 import JsonRepository from './infrastructure/JsonRespository';
-import BatClassesQuerier from './sections/BatClassesQuerier.vue';
+import BatClassesQuerier from './sections/BatQuerierView.vue';
 
 const jsonRepository = new JsonRepository()
 
