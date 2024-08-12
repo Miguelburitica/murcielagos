@@ -40,7 +40,7 @@ export const useQuerierBatGroup = (BatGroupRepository: BatGroupRepository) => {
     for (const filter of filters.value?.values()) {
       if (!filter.isActive) continue
 
-
+      // TODO: think on a way to filter following the tree structure to make it efficient, or just make a way :D
     }
     
     return batGroupArray
